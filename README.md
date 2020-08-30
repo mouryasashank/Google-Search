@@ -1,6 +1,5 @@
 # Google-Search
 
-Easy to convert from photo to text.
-We can also border the impotant ones.
+Easy to filter the searches by avoiding the unknown sources.
 
 Here we used Search() function.
