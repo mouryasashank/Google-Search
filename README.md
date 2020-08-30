@@ -1,2 +1,2 @@
 # Google-Search
-easy search
+Easy search
