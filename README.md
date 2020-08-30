@@ -1,4 +1,6 @@
 # Google-Search
 
 Easy to convert from photo to text.
-Also Bordering the impotant ones.
+We can also border the impotant ones.
+
+Here we used Search() function.
